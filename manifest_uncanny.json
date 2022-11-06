@@ -1,7 +1,7 @@
 {
-  "name": "ButtonMasher For ESP32",
+  "name": "UncannyEyes For ESP32",
   "version": "1.0",
-  "home_assistant_domain": "ButtonMasher",
+  "home_assistant_domain": "UncannyEyes",
   "builds": [
     {
       "chipFamily": "ESP32",
